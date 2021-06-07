@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 # Visitors:
 ![](https:/komarev.com/ghpvc/?username=Fifi-Bot&color=39ff14)
 
+# Users online in Server:
+<p>
+ <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
+    <img src="https://img.shields.io/discord/720991608425807932?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+</p>
+
 # 📫 How to reach me:
 Just contact my developers!
 |      Username     |                  Link to contact (Discord)                 |
