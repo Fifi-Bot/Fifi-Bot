@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Visitors:
+<!-- # Visitors:
 ![](https:/komarev.com/ghpvc/?username=Fifi-Bot&color=39ff14)
+-->
 
 # Users online in Server:
 <p>
