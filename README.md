@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 # Users online in Server:
 <p>
- <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
+ <a href="https://fifi.ayomerdeka.com/guild" alt="M.S. Server">
     <img src="https://img.shields.io/discord/720991608425807932?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
 
