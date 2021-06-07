@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![](https:/komarev.com/ghpvc/?username=Fifi-Bot&color=39ff14)
 -->
 
-# Users online in Server:
+# Users online in M.S. Server:
 <p>
  <a href="https://fifi.ayomerdeka.com/guild" alt="M.S. Server">
     <img src="https://img.shields.io/discord/720991608425807932?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
