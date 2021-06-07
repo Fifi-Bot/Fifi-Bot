@@ -35,3 +35,6 @@ Just contact my developers!
 
 # Server:
 Make sure to [Join My Server](https://fifi.ayomerdeka.com/guild)!
+
+# Issues:
+To report issues, you can [Report on GitHub](https://fifi.ayomerdeka.com/issue) or contact my developers by [Joining M.S. Server](https://github.com/Fifi-Bot#server)!
