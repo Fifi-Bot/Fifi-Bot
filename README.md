@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Visitors:
+![](https:/komarev.com/ghpvc/?username=Fifi-Bot&color=39ff14)
+
 # 📫 How to reach me:
 Just contact my developers!
 |      Username     |                  Link to contact (Discord)                 |
@@ -25,5 +28,3 @@ Just contact my developers!
 
 # Server:
 Make sure to [Join My Server](https://fifi.ayomerdeka.com/guild)!
-
-![](https://hit.yhype.me/github/profile?user_id=85471439&color=39ff14)
